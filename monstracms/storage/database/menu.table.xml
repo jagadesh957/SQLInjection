@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>3</autoincrement></options><fields><name/><link/><target/><order/></fields><menu><id>1</id><uid>c7c266d1a1</uid><name>Home</name><link>home</link><target/><order>0</order></menu><menu><id>2</id><uid>c668c08d56</uid><name>Forum</name><link>http://forum.monstra.org</link><target>_blank</target><order>1</order></menu></root>

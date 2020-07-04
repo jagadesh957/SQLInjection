@@ -1,0 +1,60 @@
+Monstra 1.2.0, 2012-07-03
+------------------------
+- Improve I18N
+- Improve Monstra Check Version: set priority 9999
+- XMLDB: fix updateWhere function
+- Fix Agent Helper
+- Sitemap: use time() instead of mktime()
+- Security Helper: add Tokenizer
+
+Monstra 1.1.6, 2012-06-12
+------------------------
+- Sitemap Plugin: return content instead of displaying.
+- Improve content filtering.
+
+Monstra 1.1.5, 2012-06-10
+------------------------
+- Improve Monstra Error Handler
+- Cookie Helper: fix set() function
+
+Monstra 1.1.4, 2012-06-09
+------------------------
+- Improve Monstra Error Handler
+
+Monstra 1.1.3, 2012-06-06
+------------------------
+- Improve Monstra Error Handler
+
+Monstra 1.1.2, 2012-06-05
+------------------------
+- Remove Fatal Error Handler
+- File helper: fix writable() function
+
+Monstra 1.1.1, 2012-06-04
+------------------------
+- Fix error reporting!
+- Themes Plugin: fix Chunk class
+
+Monstra 1.1.0, 2012-06-02
+------------------------
+- Menu plugin: added ability to add plugins(components) to site menu.
+- Improve installation script: add ability to change Monstra language.
+- Improve installation script: better error checking.
+- Improve monstra check version
+- Update Users table autoincrement value to 0
+- Pages Plugin: return empty meta robots if current component is not pages
+- Html Helper: fix arrow() function.
+- XMLDB: fix select function.
+- Themes Plugin: fix theme navigation item order. set 2
+- Time Zones updates
+- Fix translates
+
+Monstra 1.0.1, 2012-04-26
+------------------------
+- Cleanup minify during saving the theme
+- add new css variables: @site_url and @theme_url
+- Remove deprecated @url css variable
+
+Monstra 1.0.0, 2012-04-24
+------------------------
+- Initial release

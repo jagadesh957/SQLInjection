@@ -1,0 +1,1 @@
+<a href="<?php echo Site::url(); ?>sitemap"><?php echo __('Sitemap', 'sitemap'); ?></a> | <a href="<?php echo Site::url(); ?>admin"><?php echo __('Administration', 'system'); ?></a>
